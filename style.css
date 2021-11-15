@@ -1,0 +1,12 @@
+
+body {
+    font-family: "Georgia";
+    background-image: url(dataimg.jpg);
+}
+    .container {
+        background-color: white;
+    }
+
+    .jumbotron {
+        background-color: #ffffba;
+    }
